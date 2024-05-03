@@ -1,4 +1,4 @@
-{ "Gold": { "update_code": "5", "reminder_time": "3", "update_version": "v21.15", "com.gbwhatsapp3": "https://9aleh.com/ogwhatsapp-apk/", "update_message": " 
+{ "Gold": { "update_code": "6", "reminder_time": "4", "update_version": "v21.15", "com.gbwhatsapp3": "https://9aleh.com/ogwhatsapp-apk/", "update_message": " 
 <p>Update Vتحديث « 21.15</p>
 <li>تحديث جديد ممتع</li>
 <li>يحتوي على العديد من المزايا الجديد الرائعة</li>
