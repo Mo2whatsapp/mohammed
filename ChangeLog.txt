@@ -1,1 +1,10 @@
-{'ver1':'19', 'ver2':'00', 'ver3':'\n• [Important Update]\n• Please Download And Install Latest Version To Keep Your WhatsApp Working Well\n• [تحديث جديد مهم]\n• يرجى تنزيل وتثبيت أحدث إصدار للحفاظ على عمل واتساب يمكنك الان نشر حالات في الجهاز المرتبط تم تعزيز الحماية ضد الحظر تم اصلاح مشكلة انتهاء النسخة عند تفعيل رقم جديد والعديد من الاصلاحات والتحسينات بشكل جيد\n' , 'dli':'https://mo2whatsapp.blogspot.com/'}
+{ "Gold": { "update_code": "5", "reminder_time": "3", "update_version": "v21.15", "com.gbwhatsapp3": "https://9aleh.com/ogwhatsapp-apk/", "update_message": " 
+<p>Update Vتحديث « 21.15</p>
+<li>تحديث جديد ممتع</li>
+<li>يحتوي على العديد من المزايا الجديد الرائعة</li>
+<li>مزيد إصلاحات وتحسينات أخرى مهمة</li>
+
+<li>new update</li>
+<li>It contains many great new features</li>
+<li>More important fixes and improvements</li>
+" } }
